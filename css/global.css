@@ -1,11 +1,10 @@
 body{
   align-self: center;
   color: white;
-  background-color: gray;
+  background-color: red;
 }
 
 #Power-Title{
-
   color: red;
   font-family: sans-serif;
   background-color: white;
@@ -22,8 +21,7 @@ body{
 }
 
 .RedText{
-
-  color: black;
+  color: white;
   text-align: center;
   font-weight: bolder;
 }
@@ -32,6 +30,4 @@ body{
 background-color: white;
 color: black;
 border: 3px solid black;
-
-
 }
